@@ -23,15 +23,14 @@
             "organiser": {
                 "name": "London Hockey Club",
                 "rel": "organiser",
-		"uri": http://www.jma.go.jp/,
-                "literal": "JMA",
-                "symbols": [
-                    {
-                        "ticker": "JMA",
-                        "exchange": "Tokyo Stock Exchange",
-                        "symboltype": http://www.xbrl.org/2003/iso4217,
-                        "symbol": "JPY"
-                    }
-                ]
-            }
-        }
+            },
+            "uri": "http://www.jma.go.jp/",
+            "literal": "JMA",
+            "symbols" {
+                    "ticker": "JMA",
+                    "exchange": "Tokyo Stock Exchange",
+                    "symboltype": http://www.xbrl.org/2003/iso4217,
+                    "symbol": "JPY"
+                }
+        }]
+}
